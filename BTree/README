@@ -1,0 +1,7 @@
+README
+
+This is a templatized BTree created for my Data Structures class in the Fall of 2012.
+
+It takes one input parameter, the filename of the input file (btreeprojectdataexample.txt is the given example of this file). 
+
+In this file, commands are specified such as L: for loading input data into the BTree (the main.cc assumes that the input will be an int), D: for deleting a value from the tree, etc. 
