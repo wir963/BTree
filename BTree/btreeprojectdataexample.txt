@@ -1,0 +1,9 @@
+L: /Users/Welles/Desktop/btreeprojectdata2.txt
+S: 12
+D: 45
+D: 1
+D: 2
+D: 3
+D: 43
+P:
+T:
