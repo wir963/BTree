@@ -28,6 +28,8 @@
 		5BC5EF68166144E6001E3683 /* BTree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BTree; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BC5EF6C166144E6001E3683 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5BC5EF6E166144E6001E3683 /* BTree.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = BTree.1; sourceTree = "<group>"; };
+		5BC5EF7916614573001E3683 /* BTreeNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTreeNode.h; sourceTree = "<group>"; };
+		5BC5EF7B16614585001E3683 /* BTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTree.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,8 @@
 			isa = PBXGroup;
 			children = (
 				5BC5EF6C166144E6001E3683 /* main.cpp */,
+				5BC5EF7916614573001E3683 /* BTreeNode.h */,
+				5BC5EF7B16614585001E3683 /* BTree.h */,
 				5BC5EF6E166144E6001E3683 /* BTree.1 */,
 			);
 			path = BTree;
@@ -203,6 +207,7 @@
 				5BC5EF74166144E6001E3683 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
